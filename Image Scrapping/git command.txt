@@ -7,7 +7,7 @@ git push -u origin main
 
 git clone https://github.com/iNeuronai/scrap.git
 
-git config --global user.name "iNeuronai"
-git config --global user.email "sudhanshu@ineuron.ai"
+git config --global user.name "santhoshgithub22"
+git config --global user.email "santhoshbharath61@gmail.com"
 
 git remote remove origin
